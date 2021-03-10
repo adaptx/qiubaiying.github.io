@@ -6,7 +6,7 @@ email:
 description: "Good good study,day day up"
 keyword: "XZ, XZ Blog, XZ的博客, XZ"
 url: "https://adaptx.github.io/qiubaiying.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://adaptx.github.io/qiubaiying.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/adaptx/adaptx.github.io.git" # you code repository
 
 # Sidebar settings
